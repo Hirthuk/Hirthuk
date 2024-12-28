@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Hirthuk
-- 👀 I’m interested in web development and cloud engineering
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sharankumarpo2@gmail.com
-- 😄 Pronouns: Male
-- ⚡ Fun fact: ...
+Hello and Welcome to My GitHub Profile
+I am Sharankumar P, a passionate Senior Software Engineer with expertise in JavaScript, React, Node.js, AWS, and MySQL.
 
-<!---
-Hirthuk/Hirthuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Current Work:
+I’m currently working on a food booking app that optimizes office dining experiences.
+
+🎓 Certifications:
+
+AWS Associate Developer
+AWS Solution Architect
+AWS Practitioner
+Snowflake SnowPro Core
+MongoDB Architect
+These certifications demonstrate my dedication to continuous learning and growth.
+
+🚀 Professional Focus:
+With a strong focus on building and managing scalable and efficient solutions, I’m actively exploring cloud-native applications, AI-driven tools, and DevOps tools and services.
+
+🌐 Portfolio:
+Explore my projects here: [https://sharankumarg3.netlify.app/](Portfolio)
+
+💼 Professional Journey:
+Connect with me on [https://www.linkedin.com/in/sharankumar-p-g3](Linkedin) for more insights into my professional journey.
+
+📬 Contact Me:
+Feel free to reach out via email: sharankumarp02@gmail.com
+
+Thank you for visiting, and I look forward to creating impactful solutions together! 🚀
